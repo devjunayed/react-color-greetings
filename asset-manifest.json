@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-color-greetings/static/css/main.c7ec3132.css",
+    "main.js": "/react-color-greetings/static/js/main.a43989fa.js",
+    "index.html": "/react-color-greetings/index.html",
+    "main.c7ec3132.css.map": "/react-color-greetings/static/css/main.c7ec3132.css.map",
+    "main.a43989fa.js.map": "/react-color-greetings/static/js/main.a43989fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7ec3132.css",
+    "static/js/main.a43989fa.js"
+  ]
+}
